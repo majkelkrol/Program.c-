@@ -24,8 +24,8 @@ int main() {
     car.drive = "xDrive";
     
     cout << car.name << endl;
-    cout << CAR.drive << endl;
-    cout << carcost << endl;
+    cout << car.drive << endl;
+    cout << car.cost << endl;
     
     return 0;
 }
